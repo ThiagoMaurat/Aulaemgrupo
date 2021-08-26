@@ -1,4 +1,7 @@
 Sou estudante do CTD.
 
 Você tem animal de estimação?
+R: Sim, cachorro.
+
 Você conhece alguma linguagem de programação?
+R: Sim, de forma intermediária.
